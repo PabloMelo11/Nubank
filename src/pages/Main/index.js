@@ -97,7 +97,7 @@ export default function Main() {
             </CardContent>
             <CardFooter>
               <Annotation>
-                Transferencia de R$ 20,00 recebida de Debora hoje as 19:00h
+                Transferencia de R$ 2000,00 recebida de Debora hoje as 19:00h
               </Annotation>
             </CardFooter>
           </Card>
